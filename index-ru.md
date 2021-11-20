@@ -1,3 +1,5 @@
+theme: jekyll-theme-modernist
+
 ## Добро пожаловать на сайт проекта ZeldinovSimpleRender
 
 You can use the [editor on GitHub](https://github.com/RomanZSeldinov/ZeldinovSimpleRender/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
