@@ -19,3 +19,5 @@ ZeldinovSimpleRender API
 Download
 
 Download alpha version <http://github.com/RomanZSeldinov/ZeldinovSimpleRender>
+
+[Русская](http://romanzseldinov.github.io/ZeldinovSimpleRender/index-ru)
