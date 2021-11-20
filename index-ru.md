@@ -15,7 +15,7 @@ ZeldinovSimpleRender это программа для просмотра лок�
 ZeldinovSimpleRender API
 
 
-- Скачать API
+- [Скачать API]
 - О API
 ```
 
@@ -23,5 +23,7 @@ ZeldinovSimpleRender API
 Скачать
 
 Скачать альфа-версию <http://github.com/RomanZSeldinov/ZeldinovSimpleRender>
+
+[English](http://romanzseldinov.github.io/ZeldinovSimpleRender/index)
 
 
