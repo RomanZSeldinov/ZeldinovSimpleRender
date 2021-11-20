@@ -4,20 +4,17 @@ layout:default
 
 ## Добро пожаловать на сайт проекта ZeldinovSimpleRender
 
-You can use the [editor on GitHub](https://github.com/RomanZSeldinov/ZeldinovSimpleRender/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Добро пожаловать на сайт проекта ZeldinovSimpleRender
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Что такое ZeldinovSimpleRender
 
-### Markdown
+ZeldinovSimpleRender это программа для просмотра локаций
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```ZeldinovSimpleRenderAPI
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#                           ZeldinovSimpleRender API
+
 
 - Bulleted
 - List
