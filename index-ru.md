@@ -1,4 +1,6 @@
-theme: jekyll-theme-modernist
+---
+layout:default
+---
 
 ## Добро пожаловать на сайт проекта ZeldinovSimpleRender
 
