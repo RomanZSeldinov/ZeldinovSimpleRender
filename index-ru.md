@@ -1,6 +1,4 @@
 ---
-layout:default
-encoding: UTF-8
 ---
 
 ## Добро пожаловать на сайт проекта ZeldinovSimpleRender
