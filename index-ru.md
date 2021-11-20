@@ -20,8 +20,8 @@ ZeldinovSimpleRender API
 ```
 
 
-```Скачать
+Скачать
 
 Скачать альфа-версию <http://github.com/RomanZSeldinov/ZeldinovSimpleRender>
 
-```
+
