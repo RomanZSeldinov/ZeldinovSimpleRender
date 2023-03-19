@@ -1,2 +1,3 @@
 # ZeldinovSimpleRender
-Simple Render
+SimpleRender - a typical render programm :D
+## Now repo is archived
